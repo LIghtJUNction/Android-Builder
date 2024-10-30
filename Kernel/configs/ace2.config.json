@@ -9,8 +9,8 @@
     },
     "toolchains": [
       {
-        "url": "https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86/+archive/refs/heads/master/clang-r498229b.tar.gz",
         "name": "clang",
+        "url": "https://android.googlesource.com/platform/external/clang/+archive/refs/heads/android12--mainline-release.tar.gz",
         "binaryEnv": ["./bin"]
       }
     ],
