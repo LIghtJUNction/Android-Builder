@@ -11,7 +11,7 @@
       {
         "url": "https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86/+archive/refs/heads/master/clang-r498229b.tar.gz",
         "name": "clang",
-        "binaryEnv": ["bin"]
+        "binaryEnv": ["./bin"]
       }
     ],
     "enableCcache": true,
