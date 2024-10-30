@@ -9,9 +9,9 @@
     },
     "toolchains": [
       {
-        "url": "https://android.googlesource.com/toolchain/llvm-project/+archive/refs/heads/llvm-r416183.tar.gz",
+        "url": "https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86/+archive/refs/heads/android12--mainline-release/clang-r416183b.tar.gz",
         "name": "clang",
-        "binaryEnv": ["bin"]
+        "binaryEnv": ["./bin"]
       }
     ],
     "enableCcache": true,
