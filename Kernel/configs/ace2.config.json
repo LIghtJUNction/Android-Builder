@@ -7,13 +7,19 @@
       "device": "lightjunction",
       "defconfig": "vendor/parrot_GKI.config"
     },
-    "toolchains": [
-      {
-        "name": "clang",
-        "url": "https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86/+archive/refs/heads/android12-platform-release/clang-r416183b.tar.gz",
-        "binaryEnv": ["./bin"]
-      }
-    ],
+"toolchains": [
+   {
+     "name": "clang",
+     "repo": "https://gitlab.com/ThankYouMario/android_prebuilts_clang-standalone/",
+     "branch": "18",
+     "binaryEnv": ["bin"]
+   },
+   {
+     "name": "gcc",
+     "url": "https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/+archive/refs/tags/android-12.1.0_r27.tar. gz",
+     "binaryEnv": ["bin"]
+   }
+],
     "enableCcache": true,
     "params": {
       "ARCH": "arm64",
