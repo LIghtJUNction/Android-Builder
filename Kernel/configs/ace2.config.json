@@ -15,7 +15,8 @@
     "name": "clang",
     "binaryEnv": [
       "bin"
-    ]
+    ],
+    "version": "12.0.5"
   },
   {
     "repo": "https://github.com/android/platform_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-android-4.9",
@@ -23,7 +24,8 @@
     "name": "aarch64",
     "binaryEnv": [
       "bin"
-    ]
+    ],
+    "version": "0"
   },
   {
     "repo": "https://github.com/android/platform_prebuilts_gcc_linux-x86_arm_arm-linux-androideabi-4.9",
@@ -31,9 +33,11 @@
     "name": "arm",
     "binaryEnv": [
       "bin"
-    ]
+    ],
+    "version": "0"
   }
 ],
+
 
     "enableCcache": true,
     "params": {
