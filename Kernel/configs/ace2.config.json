@@ -10,7 +10,7 @@
     "toolchains": [
       {
         "name": "clang",
-        "url": "https://android.googlesource.com/platform/external/clang/+archive/refs/heads/android12--mainline-release.tar.gz",
+        "url": "https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86/+archive/refs/heads/android12-platform-release/clang-r416183b.tar.gz",
         "binaryEnv": ["./bin"]
       }
     ],
