@@ -15,8 +15,8 @@
           "binaryEnv": []
         },
         {
-          "repo": "https://github.com/LineageOS/android_prebuilts_clang_kernel_linux-x86_clang-r416183b",
-          "branch": "lineage-20.0",
+          "repo": "https://github.com/picasso09/clang-12.0.5-r416183b",
+          "branch": "main",
           "name": "clang",
           "binaryEnv": [
             "bin"
