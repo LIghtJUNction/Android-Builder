@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "Mi6X",
-      "repo": "https://github.com/Diva-Room/Miku_kernel_xiaomi_wayne",
-      "branch": "TDA",
-      "device": "wayne",
-      "defconfig": "vendor/wayne_defconfig"
+      "name": "oneplus11r-debug",
+      "repo": "https://github.com/LIghtJUNction/android_kernel_oneplus_sm8475",
+      "branch": "oneplus/sm8475_u_14.0.0_oneplus_11r_5g",
+      "device": "oneplus11r",
+      "defconfig": "defconfig"
     },
     "toolchains": [
       {
