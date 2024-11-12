@@ -15,8 +15,8 @@
           "binaryEnv": []
         },
         {
-          "repo": "https://gitlab.com/ThankYouMario/android_prebuilts_clang-standalone/",
-          "branch": "12",
+          "repo": "https://github.com/LineageOS/android_prebuilts_clang_kernel_linux-x86_clang-r416183b",
+          "branch": "lineage-20.0",
           "name": "clang",
           "binaryEnv": [
             "bin"
