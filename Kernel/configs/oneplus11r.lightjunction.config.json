@@ -5,7 +5,7 @@
       "repo": "https://github.com/LIghtJUNction/android_kernel_oneplus_sm8475",
       "branch": "oneplus/sm8475_u_14.0.0_oneplus_11r_5g",
       "device": "lightjunction",
-      "defconfig": "lightjunction_defconfig"
+      "defconfig": "vendor/waipio_GKI.config"
     },
     "toolchains": [
       {
