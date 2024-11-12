@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "Xiaomi4",
-      "repo": "https://github.com/SonicBSV/android_kernel_xiaomi_markw-4.9",
-      "branch": "master",
-      "device": "markw",
-      "defconfig": "markw_defconfig"
+      "name": "oneplus11r",
+      "repo": "https://github.com/LIghtJUNction/android_kernel_oneplus_sm8475",
+      "branch": "oneplus/sm8475_u_14.0.0_oneplus_11r_5g",
+      "device": "lightjunction",
+      "defconfig": "lightjunction_defconfig"
     },
     "toolchains": [
       {
