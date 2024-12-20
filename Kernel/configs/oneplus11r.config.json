@@ -8,12 +8,7 @@
       "defconfig": "defconfig"
     },
       "toolchains": [
-        {
-          "repo": "https://android.googlesource.com/platform/prebuilts/gas/linux-arm",
-          "branch": "master",
-          "name": "gas",
-          "binaryEnv": []
-        },
+
         {
           "repo": "https://github.com/picasso09/clang-12.0.5-r416183b",
           "branch": "main",
